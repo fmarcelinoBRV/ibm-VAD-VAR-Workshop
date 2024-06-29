@@ -1,3 +1,5 @@
 API Key [TestLLM-KLey]:
 
-UeZR3BZV3vRgaNnrm_s8XG2iZ3xxYSOssSWKTLSoA1bW
+llm: UeZR3BZV3vRgaNnrm_s8XG2iZ3xxYSOssSWKTLSoA1bW
+
+summarize: 1AvFaqfNqRcv3wcLSxrCYsUAI6GE162JtN1ZtaT_ckbn
